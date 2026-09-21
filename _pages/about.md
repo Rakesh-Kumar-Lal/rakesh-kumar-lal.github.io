@@ -26,4 +26,3 @@ latest_posts:
 ---
 
 I completed my Masters in Artificial Intelligence from Indian Institute of Information Technology, Ropar where I worked on model compression methods. After M.Tech I worked as a Research Fellow at IIT Roorkee on Pedestrian Safety using Machine Learning and Computer Vision. My reseach interests include vulnerable road user (VRU) Perception in challenging scenarios.
-
