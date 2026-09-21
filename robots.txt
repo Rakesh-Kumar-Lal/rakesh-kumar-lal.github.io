@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rakesh-kumar-lal.github.io/al-folio/sitemap.xml
+Sitemap: https://rakesh-kumar-lal.github.io/sitemap.xml
