@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Research Fellow@IIT Roorkee, M.Tech AI@IIT Ropar'24</p>
+    <p>Research Fellow-IIT Roorkee, M.Tech AI-IIT Ropar'24</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I completed my Masters in Artificial Intelligence from Indian Institute of Technology, Ropar where I studied Deep Learning, Computer Vision, Image Processing, and worked on model compression methods. After M.Tech I worked as a Research Fellow at IIT Roorkee on Pedestrian Safety using Machine Learning and Computer Vision. My reseach interests includes Deep Learning for Advanced Driving Assistant System (ADAS), autonomous driving, and perception of vulnerable road users (VRUs) in challenging scenarios.
+I completed my Masters in Artificial Intelligence from Indian Institute of Technology, Ropar where I studied Deep Learning, Computer Vision, Image Processing, and worked on model compression methods. After M.Tech I worked as a Research Fellow at IIT Roorkee on Pedestrian Safety using Machine Learning and Computer Vision. My research interests includes Deep Learning for Advanced Driver Assistance Systems (ADAS), autonomous driving, and perception of vulnerable road users (VRUs) in challenging scenarios.
