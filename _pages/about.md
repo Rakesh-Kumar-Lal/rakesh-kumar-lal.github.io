@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I completed my M.Tech in Artificial Intelligence from Indian Institute of Technology (IIT), Ropar where I studied Deep Learning, Computer Vision, Image Processing, and worked on model compression methods. 
+I completed my M.Tech in Artificial Intelligence from Indian Institute of Technology (IIT), Ropar where I studied Deep Learning, Computer Vision, Image Processing, and worked on model compression methods.
 
-Following my M.Tech, I worked as a Research Fellow at IIT Roorkee, contributing to research on Pedestrian Safety using Machine Learning and Computer Vision. 
+Following my M.Tech, I worked as a Research Fellow at IIT Roorkee, contributing to research on Pedestrian Safety using Machine Learning and Computer Vision.
 
 My research interests lie in applied Deep Learning and Computer Vision, particularly for Advanced Driver Assistance Systems (ADAS), autonomous driving, and the perception and safety of Vulnerable Road Users (VRUs) in challenging real-world scenarios.
