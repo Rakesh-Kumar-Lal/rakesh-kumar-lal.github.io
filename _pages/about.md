@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mob: (+91)-7903993932 . Email: rakeshlal.791c@gmail.com
+subtitle: (+91)-7903993932 . rakeshlal.791c@gmail.com
 
 profile:
   align: right
