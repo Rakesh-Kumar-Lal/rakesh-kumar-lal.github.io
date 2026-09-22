@@ -29,4 +29,4 @@ I completed my M.Tech in Artificial Intelligence from Indian Institute of Techno
 
 Following my M.Tech, I worked as a Research Fellow at IIT Roorkee, contributing to research on Pedestrian Safety using Machine Learning and Computer Vision. 
 
-My research interests lie in applied Deep Learning and Computer Vision, particularly for Advanced Driver Assistance Systems (ADAS), autonomous driving, and perception and safety of Vulnerable Road Users (VRUs) in challenging real-world scenarios.
+My research interests lie in applied Deep Learning and Computer Vision, particularly for Advanced Driver Assistance Systems (ADAS), autonomous driving, and the perception and safety of Vulnerable Road Users (VRUs) in challenging real-world scenarios.
