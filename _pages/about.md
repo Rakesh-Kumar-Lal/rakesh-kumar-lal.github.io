@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: (+91)-7903993932 . rakeshlal.791c@gmail.com
+subtitle: M.Tech AI@IIT Ropar'24, Research Fellow@IIT Roorkee
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Jamshedpur, Jharkhand, PO-NIT 831014</p>
+    <p>Jamshedpur, Jharkhand</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
