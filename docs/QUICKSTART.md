@@ -43,10 +43,10 @@
 1. Open `_config.yml` in your repository
 2. Update these fields:
    ```yaml
-   title: My Website
-   first_name: Your
-   last_name: Name
-   url: https://your-username.github.io # or your custom domain
+   title: Rakesh Kumar Lal
+   first_name: Rakesh
+   last_name: Lal
+   url: https://rakesh-kumar-lal.github.io # or your custom domain
    baseurl: # Leave this empty (do NOT delete it)
    ```
 3. Click **Commit changes** (at the bottom of the page)
@@ -59,7 +59,7 @@
 4. Make sure **Source** is set to **Deploy from a branch**
 5. Set the branch to **gh-pages** (NOT main)
 6. Wait for the "pages-build-deployment" workflow to complete (~45 seconds)
-7. Visit `https://your-username.github.io` in your browser
+7. Visit `https://rakesh-kumar-lal.github.io` in your browser
 
 **That's it!** Your site is live. You now have a working al-folio website.
 
