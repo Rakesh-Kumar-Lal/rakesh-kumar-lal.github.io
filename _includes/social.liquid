@@ -1,0 +1,17 @@
+{% if site.data.socials %}
+  {% if site.data.socials.email %}
+    <a href="mailto:{{ site.data.socials.email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
+  {% endif %}
+  {% if site.data.socials.scholar_userid %}
+    <a href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}" title="Google Scholar" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+  {% endif %}
+  {% if site.data.socials.github_username %}
+    <a href="https://github.com/{{ site.data.socials.github_username }}" title="GitHub" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i></a>
+  {% endif %}
+  {% if site.data.socials.linkedin_username %}
+    <a href="https://www.linkedin.com/in/{{ site.data.socials.linkedin_username }}" title="LinkedIn" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i></a>
+  {% endif %}
+  {% if site.data.socials.cv_pdf %}
+    <a href="{{ site.data.socials.cv_pdf | relative_url }}" title="CV" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf"></i></a>
+  {% endif %}
+{% endif %}
